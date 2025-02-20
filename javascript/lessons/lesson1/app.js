@@ -24,6 +24,7 @@ let temperature = -30;
 
 // Strings
 const LASTNAME = "Mbugua";
+const PI = 3.14;
 let greetings = "HelloWorld";
 
 // Objects /key-value
@@ -40,6 +41,9 @@ let items = [50,"Stephanie",person = {
     hobby:"sleep",
     profession: "Developer"
 },true,false]
+
+
+
 
 
 
